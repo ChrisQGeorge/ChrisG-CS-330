@@ -1,4 +1,12 @@
 # ChrisG-CS-330
+
+
+##Introduction
+For this project I created a 3D scene with OpenGL. The meshes for the square pyramid, plane, and cube were hand made while the diamonds and cylinders were generated. This scene includes lighting, textures, face normals, and matrix transformations.
+![3D Scene](CS330 Scene.png)
+
+
+## Class questions and answers
 Q: How do you approach designing software?
 
 A: My general approach to designing software is that first, I come up an idea or a potential solution to a problem. I then try to create a proof of concept that the idea can work in practice. Then finally I implement that idea in a working project.
