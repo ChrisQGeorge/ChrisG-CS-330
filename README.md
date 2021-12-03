@@ -3,7 +3,7 @@
 
 ##Introduction
 For this project I created a 3D scene with OpenGL. The meshes for the square pyramid, plane, and cube were hand made while the diamonds and cylinders were generated. This scene includes lighting, textures, face normals, and matrix transformations.
-![3D Scene](CS330 Scene.png)
+<image src = "CS330 Scene.png" alt = "3D Scene"></image>
 
 
 ## Class questions and answers
