@@ -1,8 +1,10 @@
 # ChrisG-CS-330
 
 
-##Introduction
+## Introduction
 For this project I created a 3D scene with OpenGL. The meshes for the square pyramid, plane, and cube were hand made while the diamonds and cylinders were generated. This scene includes lighting, textures, face normals, and matrix transformations.
+<br><br>
+## 3D scene
 <image src = "CS330 Scene.png" alt = "3D Scene"></image>
 
 
