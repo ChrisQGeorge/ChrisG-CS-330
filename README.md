@@ -1,5 +1,6 @@
-# ChrisG-CS-330
+Link to e-portfolio: <a id="raw-url" href="https://flywheel11.github.io/">Link</a><br>
 
+# ChrisG-CS-330
 
 ## Introduction
 For this project I created a 3D scene with OpenGL. The meshes for the square pyramid, plane, and cube were hand made while the diamonds and cylinders were generated. This scene includes lighting, textures, face normals, and matrix transformations.
